@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #1a1a2e;
+  --color-primary: #ff4757;
+  --color-secondary: #2ed573;
+  --color-accent: #eccc68;
+  --color-ui: #2f3542;
+  --color-text: #ffffff;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', Arial, sans-serif;
+  overflow: hidden;
+}

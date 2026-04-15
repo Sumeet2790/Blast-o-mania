@@ -1,0 +1,6 @@
+{
+  "name": "Blast Master Classic",
+  "description": "A classic grid-based arcade game inspired by Bomberman. Navigate mazes, place bombs, defeat enemies, and find the exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
